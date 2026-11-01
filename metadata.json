@@ -1,0 +1,6 @@
+{
+  "name": "Unified Engineering Workbench",
+  "description": "Professional engineering simulation dashboard with C++17 finite element thermal solver, 3D geometry viewer, multicore performance lab, embedded hardware workbench, and manual backpropagation lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
